@@ -1,7 +1,7 @@
 1. ls /bin
 2. ls /tmp
 3. ls | grep ^[t] | sort -r
-4.
+4. ls /dev | grep ^tty..$
 5.
 6.
 7.
