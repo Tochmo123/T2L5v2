@@ -1,6 +1,6 @@
 1. ls /bin
 2. ls /tmp
-3.
+3. ls | grep ^[t] | sort -r
 4.
 5.
 6.
