@@ -6,6 +6,6 @@
 15. ls -i
 16. mkdir PRUEBA
 17. mkdir -p PRUEBA/{dir1/dir11,dir2,dir3/{dir31,dir32}}
-18.
+18. cp /etc/hostname /home/alumno/PRUEBA/mensaje
 19.
 20.
