@@ -5,7 +5,7 @@
 14. pwd
 15. ls -i
 16. mkdir PRUEBA
-17.
+17. mkdir -p PRUEBA/{dir1/dir11,dir2,dir3/{dir31,dir32}}
 18.
 19.
 20.
