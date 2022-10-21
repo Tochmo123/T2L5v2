@@ -2,8 +2,8 @@
 2. ls /tmp
 3. ls | grep ^[t] | sort -r
 4. ls /dev | grep ^tty..$
-5.
-6.
-7.
-8.
-9.
+5. ls /dev/tty*[1-4]
+6. ls /dev/t*C1
+7. ls -a
+8. ls /dev | grep -v ^[t]
+9. cd /usr | ls -R
